@@ -1,5 +1,6 @@
 # 考试小助手Wechat bot for A-Level Past Papers
 @author Zhaonan Li
+
 The Wechat bot can be implemented in two ways:
   - Official account(by using Python web-related libraries) --> Launch weixin.py
   - Individual account(by using WeChat web APIs) --> Launch weixin_robot.py
